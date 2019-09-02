@@ -1,3 +1,9 @@
+from rest_framework import serializers
+from RestDjango.product.models import Product
 
-class ProductSerializer:
-    pass
+
+class ProductSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Product
+        fields = '__all__'
+

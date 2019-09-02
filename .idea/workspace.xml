@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9acc89bb-32bd-415a-9e9e-a09e8b697426" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/RestDjango/product/migrations/0001_initial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestDjango/WebServiceDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/RestDjango/WebServiceDjango/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestDjango/WebServiceDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/RestDjango/WebServiceDjango/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RestDjango/product/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/RestDjango/product/api/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestDjango/product/api/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/RestDjango/product/api/viewsets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RestDjango/product/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/RestDjango/product/models.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
