@@ -15,15 +15,8 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-
-from rest_framework import routers
 from rest_framework_jwt.views import obtain_jwt_token
 from rest_framework_jwt.views import refresh_jwt_token
-
-from ..product.models import Product
-
-router = routers.DefaultRouter()
-router.register(r'product', Product)
 
 urlpatterns = [
     path('admin/', admin.site.urls),
